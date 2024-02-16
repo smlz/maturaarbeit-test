@@ -1,3 +1,3 @@
 # Maturaarbeit
 
-Hier entsteht eine Maturaarbeit.
+Hier entsteht die Maturaarbeit von Marco Schmalz.
